@@ -1,4 +1,8 @@
-## Hi there 👋
+## Muhammad Hussain
+
+### Current student at Leeds Beckett University 🎓
+
+### Studying Cyber Security & Digital Forensics 💻
 
 <!--
 **mh2007x/mh2007x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
